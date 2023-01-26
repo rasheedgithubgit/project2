@@ -1,0 +1,68 @@
+
+ .navbar #webstudio {
+    margin: 0;
+    color:rgb(52, 92, 201);
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+a:link { text-decoration: none;
+color: black;
+font-weight: bold; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+ 
+
+.main .container {
+    background-color: rgb(49, 48, 48);
+color: white;
+}
+.main .container .headline-main {
+    margin-left: 36%;
+}
+#button {
+    background-color:rgb(18, 75, 150) ;
+    color: white;
+    width: 150px;
+    height: 28px;
+}
+.paragraph {
+    font-weight:bolder;
+    font-size: 12px;
+}
+h2 {
+    text-align: center;
+}
+li {
+    list-style-type: none;
+    text-decoration: none;
+} 
+
+.ourteam {
+    background-color: rgb(221, 230, 230);
+}
+.person1 h3,h4  {
+ text-align: center;
+}
+.person2 h3,h4 {
+    text-align: center;
+}
+.person3 h3,h4 {
+    text-align: center;
+}
+.person4 h3,h4 {
+    text-align: center;
+}
+footer {
+    background-color: rgb(49, 48, 48);
+}
+.footer a {
+color: white;
+font-size: small;
+}
